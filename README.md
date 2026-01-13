@@ -22,7 +22,38 @@ Feature 2 — e.g., Alerts for road hazards
 
 Feature 3 — e.g., Data visualization of road incidents
 
-Feature 4 — e.g., User-friendly interface for navigation
+Feature 4 — e.g., User-friendly interface for navigation.
+
+Purpose 🎯
+
+The primary goal of Road-Guardian is to raise awareness about how technology can be used to enhance road safety. It serves as a demonstration of how emergency alerts and location sharing can assist during accidents or dangerous situations, while emphasizing ethical and responsible development practices.
+
+Usage 🧪
+
+Configure emergency contacts within the app
+
+Enable required permissions with user consent
+
+Test using simulated or controlled scenarios only
+
+⚠️ NOTE: THIS PROJECT IS INTENDED FOR EDUCATIONAL AND DEMONSTRATION PURPOSES ONLY.
+
+
+Important Notes ⚠️
+
+THE APP DOES NOT CONTACT REAL EMERGENCY SERVICES DURING DEVELOPMENT OR TESTING.
+
+ALL FEATURES INVOLVING MESSAGING OR LOCATION ARE DESIGNED TO RESPECT USER PRIVACY.
+
+THIS PROJECT IS NOT INTENDED FOR REAL-WORLD DEPLOYMENT WITHOUT PROPER LEGAL AND PLATFORM COMPLIANCE.
+
+Future Enhancements 🚀
+
+Improved accident detection logic
+
+Integration with wearable or vehicle sensors
+
+Enhanced UI/UX for quicker emergency interaction
 
 Contact ✉️
 
