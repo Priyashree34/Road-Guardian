@@ -55,10 +55,11 @@ Integration with wearable or vehicle sensors
 
 Enhanced UI/UX for quicker emergency interaction
 
-Contact ✉️
+Author 👩‍💻
 
-Developer: Priyashree Dey
+Priyashree Dey 
+Computer Science Student
+GitHub: https://github.com/Priyashree34
 
-GitHub: Priyashree34
-
-Email: Priyashree Dey
+For any details contact 
+E-mail 📩 priyashreedey70@gmail.com
