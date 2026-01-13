@@ -56,8 +56,8 @@ Integration with wearable or vehicle sensors
 Enhanced UI/UX for quicker emergency interaction
 
 Author 👩‍💻
-
 Priyashree Dey
+Computer Science Student 
 GitHub: https://github.com/Priyashree34
 
 For any details contact 
