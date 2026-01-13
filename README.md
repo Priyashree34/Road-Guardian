@@ -57,7 +57,8 @@ Enhanced UI/UX for quicker emergency interaction
 
 Author 👩‍💻
 
-Priyashree Dey 
+Priyashree Dey
+
 Computer Science Student
 GitHub: https://github.com/Priyashree34
 
